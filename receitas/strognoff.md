@@ -1,15 +1,15 @@
-#Strognoff de frango
+# Strognoff de frango
 **Negrito**
 _italico_
 :chicken:
 
-##Você será capaz de entender o
+## Você será capaz de entender o
 
  - que significa pensar computacionalmente.
 
  - Pensamento aplicável à qualquer área do conhecimento.
 
-###Dessa forma, será capaz
+### Dessa forma, será capaz
 
  - de resolver qualquer problema de uma maneria
 
